@@ -26,31 +26,31 @@ Cada base contém informações sobre:
    - Comparação do faturamento total entre as lojas.
    - Identificação de padrões e variações relevantes.
 
-   ![Gráfico Faturamento](imagens/faturamento_total.png)
+   <img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/2e6c930f-48d8-4a79-919a-a2ee8d0aaf86" />
 
 3. **Vendas por categoria**
    - Ranking dos produtos mais e menos vendidos por loja.
    - Análise de concentração de vendas em categorias específicas.
 
-   ![Gráfico Mais Vendidos](imagens/produtos_mais_vendidos.png)
+   <img width="1189" height="575" alt="image" src="https://github.com/user-attachments/assets/a3ecfce4-eea0-44ed-8514-53c396fca4a9" />
+
 
 4. **Custos logísticos**
    - Comparação do custo total e médio de frete.
    - Avaliação da eficiência logística.
 
-   ![Gráfico Frete](imagens/custo_frete.png)
-
 5. **Avaliação dos clientes**
    - Comparativo das notas médias por loja.
    - Identificação de pontos fortes e fracos na satisfação do cliente.
 
-   ![Avaliação Clientes](imagens/avaliacao_clientes.png)
+ <img width="193" height="187" alt="image" src="https://github.com/user-attachments/assets/9c1cbe25-01dd-452b-9149-0365be432169" />
 
 6. **Análise geográfica**
    - Mapeamento das vendas por localização.
    - Uso de mapas de calor para visualizar a distribuição geográfica.
 
-   ![Mapa de Calor](imagens/mapa_calor.png)
+   <img width="474" height="480" alt="image" src="https://github.com/user-attachments/assets/7a12ebfb-c39b-4042-90a4-f359ef48c27b" />
+
 
 ## 📈 Principais Insights
 - **Loja 1** – Bom faturamento e boa reputação, forte presença em SP e BH.
